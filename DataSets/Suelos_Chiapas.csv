@@ -1,0 +1,708 @@
+FID,Shape *,municipio,cvemun,REGION_2,N_G1,Area_Km2
+0,Polygon,Acacoyagua,1,X Soconusco,CAMBISOL,27.486114
+1,Polygon,Acacoyagua,1,X Soconusco,FLUVISOL,0.017437
+2,Polygon,Acacoyagua,1,X Soconusco,LEPTOSOL,132.958343
+3,Polygon,Acacoyagua,1,X Soconusco,PHAEOZEM,83.261034
+4,Polygon,Acacoyagua,1,X Soconusco,REGOSOL,4.125552
+5,Polygon,Acala,2,IV De Los Llanos,FLUVISOL,17.944277
+6,Polygon,Acala,2,IV De Los Llanos,LEPTOSOL,13.507123
+7,Polygon,Acala,2,IV De Los Llanos,LUVISOL,55.681311
+8,Polygon,Acala,2,IV De Los Llanos,No aplica,7.476921
+9,Polygon,Acala,2,IV De Los Llanos,PHAEOZEM,8.08261
+10,Polygon,Acala,2,IV De Los Llanos,REGOSOL,197.661939
+11,Polygon,Acala,2,IV De Los Llanos,VERTISOL,3.974427
+12,Polygon,Acapetahua,3,X Soconusco,ARENOSOL,16.103418
+13,Polygon,Acapetahua,3,X Soconusco,CAMBISOL,330.130074
+14,Polygon,Acapetahua,3,X Soconusco,FLUVISOL,8.176858
+15,Polygon,Acapetahua,3,X Soconusco,GLEYSOL,34.90376
+16,Polygon,Acapetahua,3,X Soconusco,LEPTOSOL,3.339636
+17,Polygon,Acapetahua,3,X Soconusco,No aplica,8.04655
+18,Polygon,Acapetahua,3,X Soconusco,PHAEOZEM,3.357419
+19,Polygon,Acapetahua,3,X Soconusco,REGOSOL,3.831499
+20,Polygon,Acapetahua,3,X Soconusco,SOLONCHAK,135.161394
+21,Polygon,Aldama,113,V Altos Tsotsil Tseltal,LUVISOL,10.3769
+22,Polygon,Aldama,113,V Altos Tsotsil Tseltal,PHAEOZEM,16.41196
+23,Polygon,Altamirano,4,XII Selva Lacandona,FLUVISOL,16.792926
+24,Polygon,Altamirano,4,XII Selva Lacandona,GLEYSOL,33.120167
+25,Polygon,Altamirano,4,XII Selva Lacandona,LEPTOSOL,417.388756
+26,Polygon,Altamirano,4,XII Selva Lacandona,LUVISOL,307.166927
+27,Polygon,Altamirano,4,XII Selva Lacandona,No aplica,1.222323
+28,Polygon,Altamirano,4,XII Selva Lacandona,PHAEOZEM,96.699153
+29,Polygon,Altamirano,4,XII Selva Lacandona,VERTISOL,82.302635
+30,Polygon,Amatán,5,VIII Norte,LEPTOSOL,50.778781
+31,Polygon,Amatán,5,VIII Norte,LUVISOL,264.421346
+32,Polygon,Amatán,5,VIII Norte,No aplica,0.479743
+33,Polygon,Amatenango de la Frontera,6,XI Sierra Mariscal,ACRISOL,78.768709
+34,Polygon,Amatenango de la Frontera,6,XI Sierra Mariscal,ANDOSOL,0.9996
+35,Polygon,Amatenango de la Frontera,6,XI Sierra Mariscal,FLUVISOL,6.56059
+36,Polygon,Amatenango de la Frontera,6,XI Sierra Mariscal,LEPTOSOL,33.29006
+37,Polygon,Amatenango de la Frontera,6,XI Sierra Mariscal,LUVISOL,68.147714
+38,Polygon,Amatenango de la Frontera,6,XI Sierra Mariscal,No aplica,0.115723
+39,Polygon,Amatenango de la Frontera,6,XI Sierra Mariscal,PHAEOZEM,11.340223
+40,Polygon,Amatenango de la Frontera,6,XI Sierra Mariscal,REGOSOL,45.173417
+41,Polygon,Amatenango de la Frontera,6,XI Sierra Mariscal,VERTISOL,7.676098
+42,Polygon,Amatenango del Valle,7,V Altos Tsotsil Tseltal,ALISOL,22.274187
+43,Polygon,Amatenango del Valle,7,V Altos Tsotsil Tseltal,GLEYSOL,2.512
+44,Polygon,Amatenango del Valle,7,V Altos Tsotsil Tseltal,LEPTOSOL,96.090299
+45,Polygon,Amatenango del Valle,7,V Altos Tsotsil Tseltal,LUVISOL,31.112672
+46,Polygon,Ángel Albino Corzo,8,VI Frailesca,ACRISOL,147.116082
+47,Polygon,Ángel Albino Corzo,8,VI Frailesca,CAMBISOL,60.702726
+48,Polygon,Ángel Albino Corzo,8,VI Frailesca,FLUVISOL,13.416578
+49,Polygon,Ángel Albino Corzo,8,VI Frailesca,LEPTOSOL,188.384421
+50,Polygon,Ángel Albino Corzo,8,VI Frailesca,LUVISOL,100.207658
+51,Polygon,Ángel Albino Corzo,8,VI Frailesca,No aplica,2.102354
+52,Polygon,Ángel Albino Corzo,8,VI Frailesca,REGOSOL,68.514855
+53,Polygon,Arriaga,9,IX Istmo Costa,ARENOSOL,4.915315
+54,Polygon,Arriaga,9,IX Istmo Costa,CAMBISOL,152.648285
+55,Polygon,Arriaga,9,IX Istmo Costa,LEPTOSOL,92.484472
+56,Polygon,Arriaga,9,IX Istmo Costa,LUVISOL,207.891128
+57,Polygon,Arriaga,9,IX Istmo Costa,No aplica,5.784935
+58,Polygon,Arriaga,9,IX Istmo Costa,PHAEOZEM,177.562184
+59,Polygon,Arriaga,9,IX Istmo Costa,REGOSOL,139.396973
+60,Polygon,Arriaga,9,IX Istmo Costa,SOLONCHAK,28.126857
+61,Polygon,Bejucal de Ocampo,10,XI Sierra Mariscal,ACRISOL,0.015405
+62,Polygon,Bejucal de Ocampo,10,XI Sierra Mariscal,ANDOSOL,49.256307
+63,Polygon,Bejucal de Ocampo,10,XI Sierra Mariscal,FLUVISOL,1.116066
+64,Polygon,Bejucal de Ocampo,10,XI Sierra Mariscal,LEPTOSOL,2.59465
+65,Polygon,Bejucal de Ocampo,10,XI Sierra Mariscal,REGOSOL,25.691533
+66,Polygon,Belisario Domínguez,126,II Valles Zoque,ACRISOL,19.011641
+67,Polygon,Belisario Domínguez,126,II Valles Zoque,CAMBISOL,138.066514
+68,Polygon,Belisario Domínguez,126,II Valles Zoque,LEPTOSOL,167.234799
+69,Polygon,Belisario Domínguez,126,II Valles Zoque,LUVISOL,410.093004
+70,Polygon,Belisario Domínguez,126,II Valles Zoque,NITISOL,23.935796
+71,Polygon,Belisario Domínguez,126,II Valles Zoque,PHAEOZEM,5.691792
+72,Polygon,Belisario Domínguez,126,II Valles Zoque,REGOSOL,133.102014
+73,Polygon,Belisario Domínguez,126,II Valles Zoque,UMBRISOL,9.7413
+74,Polygon,Bella Vista,11,XI Sierra Mariscal,ACRISOL,3.946312
+75,Polygon,Bella Vista,11,XI Sierra Mariscal,ANDOSOL,36.046029
+76,Polygon,Bella Vista,11,XI Sierra Mariscal,FLUVISOL,0.547928
+77,Polygon,Bella Vista,11,XI Sierra Mariscal,LEPTOSOL,8.489521
+78,Polygon,Bella Vista,11,XI Sierra Mariscal,LUVISOL,140.678697
+79,Polygon,Bella Vista,11,XI Sierra Mariscal,PHAEOZEM,23.878427
+80,Polygon,Benemérito de las Américas,114,XIII Maya,ACRISOL,138.552218
+81,Polygon,Benemérito de las Américas,114,XIII Maya,CAMBISOL,96.420965
+82,Polygon,Benemérito de las Américas,114,XIII Maya,FLUVISOL,73.708278
+83,Polygon,Benemérito de las Américas,114,XIII Maya,GLEYSOL,214.754936
+84,Polygon,Benemérito de las Américas,114,XIII Maya,LUVISOL,178.91789
+85,Polygon,Benemérito de las Américas,114,XIII Maya,No aplica,16.203858
+86,Polygon,Benemérito de las Américas,114,XIII Maya,PHAEOZEM,37.444469
+87,Polygon,Benemérito de las Américas,114,XIII Maya,UMBRISOL,129.308215
+88,Polygon,Benemérito de las Américas,114,XIII Maya,VERTISOL,198.765689
+89,Polygon,Berriozábal,12,I Metropolitana,LEPTOSOL,136.480649
+90,Polygon,Berriozábal,12,I Metropolitana,LUVISOL,147.639555
+91,Polygon,Berriozábal,12,I Metropolitana,No aplica,2.535233
+92,Polygon,Berriozábal,12,I Metropolitana,PHAEOZEM,4.601855
+93,Polygon,Berriozábal,12,I Metropolitana,PLINTOSOL,2.290159
+94,Polygon,Berriozábal,12,I Metropolitana,REGOSOL,11.384427
+95,Polygon,Berriozábal,12,I Metropolitana,VERTISOL,46.768252
+96,Polygon,Bochil,13,VII De Los Bosques,FLUVISOL,2.795168
+97,Polygon,Bochil,13,VII De Los Bosques,LEPTOSOL,162.537948
+98,Polygon,Bochil,13,VII De Los Bosques,LUVISOL,74.89218
+99,Polygon,Bochil,13,VII De Los Bosques,No aplica,0.621213
+100,Polygon,Bochil,13,VII De Los Bosques,PHAEOZEM,52.658612
+101,Polygon,Bochil,13,VII De Los Bosques,REGOSOL,71.408559
+102,Polygon,Cacahoatán,15,X Soconusco,ANDOSOL,98.330969
+103,Polygon,Cacahoatán,15,X Soconusco,CAMBISOL,51.719029
+104,Polygon,Cacahoatán,15,X Soconusco,FLUVISOL,0.149457
+105,Polygon,Cacahoatán,15,X Soconusco,LUVISOL,19.085985
+106,Polygon,Cacahoatán,15,X Soconusco,No aplica,1.310361
+107,Polygon,Cacahoatán,15,X Soconusco,REGOSOL,2.81811
+108,Polygon,Capitán Luis Ángel Vidal,120,XI Sierra Mariscal,ACRISOL,5.262781
+109,Polygon,Capitán Luis Ángel Vidal,120,XI Sierra Mariscal,CAMBISOL,129.10187
+110,Polygon,Capitán Luis Ángel Vidal,120,XI Sierra Mariscal,LEPTOSOL,90.87567
+111,Polygon,Catazajá,16,XIII Maya,GLEYSOL,458.558148
+112,Polygon,Catazajá,16,XIII Maya,LUVISOL,49.957139
+113,Polygon,Catazajá,16,XIII Maya,No aplica,85.137885
+114,Polygon,Catazajá,16,XIII Maya,REGOSOL,35.748301
+115,Polygon,Chalchihuitán,22,V Altos Tsotsil Tseltal,LEPTOSOL,16.709887
+116,Polygon,Chalchihuitán,22,V Altos Tsotsil Tseltal,LUVISOL,35.790564
+117,Polygon,Chalchihuitán,22,V Altos Tsotsil Tseltal,PHAEOZEM,11.095555
+118,Polygon,Chalchihuitán,22,V Altos Tsotsil Tseltal,PLINTOSOL,121.554537
+119,Polygon,Chamula,23,V Altos Tsotsil Tseltal,ALISOL,0.167599
+120,Polygon,Chamula,23,V Altos Tsotsil Tseltal,GLEYSOL,0.00216
+121,Polygon,Chamula,23,V Altos Tsotsil Tseltal,LEPTOSOL,42.376917
+122,Polygon,Chamula,23,V Altos Tsotsil Tseltal,LUVISOL,249.507078
+123,Polygon,Chamula,23,V Altos Tsotsil Tseltal,PHAEOZEM,48.839479
+124,Polygon,Chamula,23,V Altos Tsotsil Tseltal,REGOSOL,3.447637
+125,Polygon,Chanal,24,V Altos Tsotsil Tseltal,ALISOL,5.526234
+126,Polygon,Chanal,24,V Altos Tsotsil Tseltal,GLEYSOL,0.0726
+127,Polygon,Chanal,24,V Altos Tsotsil Tseltal,LEPTOSOL,34.922672
+128,Polygon,Chanal,24,V Altos Tsotsil Tseltal,LUVISOL,364.145349
+129,Polygon,Chanal,24,V Altos Tsotsil Tseltal,No aplica,1.767712
+130,Polygon,Chapultenango,25,VIII Norte,ACRISOL,0.00549
+131,Polygon,Chapultenango,25,VIII Norte,ARENOSOL,2.218576
+132,Polygon,Chapultenango,25,VIII Norte,LEPTOSOL,0.040131
+133,Polygon,Chapultenango,25,VIII Norte,LUVISOL,144.866706
+134,Polygon,Chapultenango,25,VIII Norte,No aplica,0.316842
+135,Polygon,Chapultenango,25,VIII Norte,PHAEOZEM,32.340103
+136,Polygon,Chapultenango,25,VIII Norte,REGOSOL,1.49241
+137,Polygon,Chenalhó,26,V Altos Tsotsil Tseltal,LEPTOSOL,12.994287
+138,Polygon,Chenalhó,26,V Altos Tsotsil Tseltal,LUVISOL,215.998648
+139,Polygon,Chenalhó,26,V Altos Tsotsil Tseltal,PHAEOZEM,20.243263
+140,Polygon,Chenalhó,26,V Altos Tsotsil Tseltal,PLINTOSOL,1.902306
+141,Polygon,Chiapa de Corzo,27,I Metropolitana,FLUVISOL,5.499878
+142,Polygon,Chiapa de Corzo,27,I Metropolitana,LEPTOSOL,310.885691
+143,Polygon,Chiapa de Corzo,27,I Metropolitana,LUVISOL,39.502875
+144,Polygon,Chiapa de Corzo,27,I Metropolitana,No aplica,20.762986
+145,Polygon,Chiapa de Corzo,27,I Metropolitana,PHAEOZEM,88.297893
+146,Polygon,Chiapa de Corzo,27,I Metropolitana,REGOSOL,284.373751
+147,Polygon,Chiapa de Corzo,27,I Metropolitana,VERTISOL,39.073953
+148,Polygon,Chiapilla,28,IV De Los Llanos,FLUVISOL,1.800121
+149,Polygon,Chiapilla,28,IV De Los Llanos,LEPTOSOL,12.857443
+150,Polygon,Chiapilla,28,IV De Los Llanos,LUVISOL,8.140968
+151,Polygon,Chiapilla,28,IV De Los Llanos,No aplica,0.583793
+152,Polygon,Chiapilla,28,IV De Los Llanos,PHAEOZEM,25.832958
+153,Polygon,Chiapilla,28,IV De Los Llanos,REGOSOL,0.078983
+154,Polygon,Chiapilla,28,IV De Los Llanos,VERTISOL,2.068694
+155,Polygon,Chicoasén,29,III Mezcalapa,LEPTOSOL,67.658271
+156,Polygon,Chicoasén,29,III Mezcalapa,LUVISOL,13.235395
+157,Polygon,Chicoasén,29,III Mezcalapa,No aplica,1.085868
+158,Polygon,Chicoasén,29,III Mezcalapa,REGOSOL,33.264418
+159,Polygon,Chicomuselo,30,XI Sierra Mariscal,ACRISOL,115.001838
+160,Polygon,Chicomuselo,30,XI Sierra Mariscal,CAMBISOL,64.611251
+161,Polygon,Chicomuselo,30,XI Sierra Mariscal,FLUVISOL,31.174081
+162,Polygon,Chicomuselo,30,XI Sierra Mariscal,LEPTOSOL,281.574904
+163,Polygon,Chicomuselo,30,XI Sierra Mariscal,LUVISOL,224.118113
+164,Polygon,Chicomuselo,30,XI Sierra Mariscal,No aplica,1.234511
+165,Polygon,Chicomuselo,30,XI Sierra Mariscal,PHAEOZEM,77.024622
+166,Polygon,Chicomuselo,30,XI Sierra Mariscal,REGOSOL,200.622052
+167,Polygon,Chilón,31,XIV Tulijá Tseltal Chol,CAMBISOL,4.591721
+168,Polygon,Chilón,31,XIV Tulijá Tseltal Chol,LEPTOSOL,635.986101
+169,Polygon,Chilón,31,XIV Tulijá Tseltal Chol,LUVISOL,189.117113
+170,Polygon,Chilón,31,XIV Tulijá Tseltal Chol,No aplica,0.774061
+171,Polygon,Chilón,31,XIV Tulijá Tseltal Chol,PHAEOZEM,540.491176
+172,Polygon,Chilón,31,XIV Tulijá Tseltal Chol,REGOSOL,62.876318
+173,Polygon,Chilón,31,XIV Tulijá Tseltal Chol,UMBRISOL,219.822504
+174,Polygon,Chilón,31,XIV Tulijá Tseltal Chol,VERTISOL,25.031874
+175,Polygon,Cintalapa,17,II Valles Zoque,ACRISOL,5.383598
+176,Polygon,Cintalapa,17,II Valles Zoque,ALISOL,9.945955
+177,Polygon,Cintalapa,17,II Valles Zoque,CAMBISOL,431.896173
+178,Polygon,Cintalapa,17,II Valles Zoque,FLUVISOL,19.733354
+179,Polygon,Cintalapa,17,II Valles Zoque,LEPTOSOL,961.066228
+180,Polygon,Cintalapa,17,II Valles Zoque,LUVISOL,398.213871
+181,Polygon,Cintalapa,17,II Valles Zoque,NITISOL,25.101411
+182,Polygon,Cintalapa,17,II Valles Zoque,No aplica,9.252839
+183,Polygon,Cintalapa,17,II Valles Zoque,PHAEOZEM,101.435199
+184,Polygon,Cintalapa,17,II Valles Zoque,REGOSOL,651.273866
+185,Polygon,Cintalapa,17,II Valles Zoque,UMBRISOL,253.549979
+186,Polygon,Cintalapa,17,II Valles Zoque,VERTISOL,189.62143
+187,Polygon,Coapilla,18,III Mezcalapa,LEPTOSOL,33.727764
+188,Polygon,Coapilla,18,III Mezcalapa,LUVISOL,52.603546
+189,Polygon,Coapilla,18,III Mezcalapa,No aplica,0.213694
+190,Polygon,Coapilla,18,III Mezcalapa,PHAEOZEM,68.342179
+191,Polygon,Comitán de Domínguez,19,XV Meseta Comiteca Tojolabal,ALISOL,51.435758
+192,Polygon,Comitán de Domínguez,19,XV Meseta Comiteca Tojolabal,LEPTOSOL,610.404395
+193,Polygon,Comitán de Domínguez,19,XV Meseta Comiteca Tojolabal,LUVISOL,122.74322
+194,Polygon,Comitán de Domínguez,19,XV Meseta Comiteca Tojolabal,No aplica,5.476478
+195,Polygon,Comitán de Domínguez,19,XV Meseta Comiteca Tojolabal,PHAEOZEM,12.091222
+196,Polygon,Comitán de Domínguez,19,XV Meseta Comiteca Tojolabal,PLANOSOL,58.26086
+197,Polygon,Comitán de Domínguez,19,XV Meseta Comiteca Tojolabal,VERTISOL,116.836336
+198,Polygon,Copainalá,21,III Mezcalapa,LEPTOSOL,59.103724
+199,Polygon,Copainalá,21,III Mezcalapa,LUVISOL,183.257766
+200,Polygon,Copainalá,21,III Mezcalapa,No aplica,3.393439
+201,Polygon,Copainalá,21,III Mezcalapa,PHAEOZEM,100.387663
+202,Polygon,El Bosque,14,VII De Los Bosques,LUVISOL,0.24352
+203,Polygon,El Bosque,14,VII De Los Bosques,PHAEOZEM,86.284014
+204,Polygon,El Bosque,14,VII De Los Bosques,PLINTOSOL,72.503054
+205,Polygon,El Parral,122,VI Frailesca,LEPTOSOL,246.543775
+206,Polygon,El Parral,122,VI Frailesca,LUVISOL,64.954238
+207,Polygon,El Parral,122,VI Frailesca,No aplica,6.550527
+208,Polygon,El Parral,122,VI Frailesca,REGOSOL,51.578366
+209,Polygon,El Porvenir,70,XI Sierra Mariscal,ACRISOL,27.497153
+210,Polygon,El Porvenir,70,XI Sierra Mariscal,ANDOSOL,0.692645
+211,Polygon,El Porvenir,70,XI Sierra Mariscal,LUVISOL,0.027981
+212,Polygon,El Porvenir,70,XI Sierra Mariscal,REGOSOL,54.389867
+213,Polygon,Emiliano Zapata,123,IV De Los Llanos,FLUVISOL,1.878384
+214,Polygon,Emiliano Zapata,123,IV De Los Llanos,LEPTOSOL,47.735872
+215,Polygon,Emiliano Zapata,123,IV De Los Llanos,No aplica,2.515575
+216,Polygon,Emiliano Zapata,123,IV De Los Llanos,PHAEOZEM,83.025148
+217,Polygon,Emiliano Zapata,123,IV De Los Llanos,REGOSOL,71.177732
+218,Polygon,Emiliano Zapata,123,IV De Los Llanos,VERTISOL,11.70392
+219,Polygon,Escuintla,32,X Soconusco,ACRISOL,127.106282
+220,Polygon,Escuintla,32,X Soconusco,CAMBISOL,47.432905
+221,Polygon,Escuintla,32,X Soconusco,FLUVISOL,11.547308
+222,Polygon,Escuintla,32,X Soconusco,LEPTOSOL,78.310763
+223,Polygon,Escuintla,32,X Soconusco,LUVISOL,26.897901
+224,Polygon,Escuintla,32,X Soconusco,No aplica,0.997553
+225,Polygon,Escuintla,32,X Soconusco,PHAEOZEM,18.05465
+226,Polygon,Escuintla,32,X Soconusco,REGOSOL,106.231448
+227,Polygon,Francisco León,33,III Mezcalapa,ACRISOL,17.531571
+228,Polygon,Francisco León,33,III Mezcalapa,ARENOSOL,2.395828
+229,Polygon,Francisco León,33,III Mezcalapa,CAMBISOL,15.267981
+230,Polygon,Francisco León,33,III Mezcalapa,LUVISOL,168.763223
+231,Polygon,Francisco León,33,III Mezcalapa,PHAEOZEM,3.293769
+232,Polygon,Francisco León,33,III Mezcalapa,REGOSOL,2.677998
+233,Polygon,Frontera Comalapa,34,XI Sierra Mariscal,CAMBISOL,0.003156
+234,Polygon,Frontera Comalapa,34,XI Sierra Mariscal,FLUVISOL,25.705944
+235,Polygon,Frontera Comalapa,34,XI Sierra Mariscal,LEPTOSOL,255.74824
+236,Polygon,Frontera Comalapa,34,XI Sierra Mariscal,LUVISOL,47.741625
+237,Polygon,Frontera Comalapa,34,XI Sierra Mariscal,No aplica,3.762049
+238,Polygon,Frontera Comalapa,34,XI Sierra Mariscal,PHAEOZEM,273.75315
+239,Polygon,Frontera Comalapa,34,XI Sierra Mariscal,REGOSOL,19.632726
+240,Polygon,Frontera Comalapa,34,XI Sierra Mariscal,VERTISOL,136.248731
+241,Polygon,Frontera Hidalgo,35,X Soconusco,CAMBISOL,86.219122
+242,Polygon,Frontera Hidalgo,35,X Soconusco,FLUVISOL,5.308553
+243,Polygon,Frontera Hidalgo,35,X Soconusco,LUVISOL,0.384305
+244,Polygon,Frontera Hidalgo,35,X Soconusco,No aplica,0.699324
+245,Polygon,Frontera Hidalgo,35,X Soconusco,PHAEOZEM,1.188309
+246,Polygon,Honduras de la Sierra,125,XI Sierra Mariscal,ACRISOL,48.226978
+247,Polygon,Honduras de la Sierra,125,XI Sierra Mariscal,CAMBISOL,106.521959
+248,Polygon,Honduras de la Sierra,125,XI Sierra Mariscal,FLUVISOL,0.843711
+249,Polygon,Honduras de la Sierra,125,XI Sierra Mariscal,LEPTOSOL,89.715209
+250,Polygon,Honduras de la Sierra,125,XI Sierra Mariscal,LUVISOL,7.330693
+251,Polygon,Honduras de la Sierra,125,XI Sierra Mariscal,REGOSOL,14.225432
+252,Polygon,Huehuetán,37,X Soconusco,ACRISOL,62.052025
+253,Polygon,Huehuetán,37,X Soconusco,CAMBISOL,102.181283
+254,Polygon,Huehuetán,37,X Soconusco,FLUVISOL,13.649214
+255,Polygon,Huehuetán,37,X Soconusco,GLEYSOL,15.852008
+256,Polygon,Huehuetán,37,X Soconusco,LUVISOL,61.463066
+257,Polygon,Huehuetán,37,X Soconusco,No aplica,2.228739
+258,Polygon,Huehuetán,37,X Soconusco,PHAEOZEM,26.302002
+259,Polygon,Huehuetán,37,X Soconusco,REGOSOL,19.230683
+260,Polygon,Huitiupán,39,VII De Los Bosques,LEPTOSOL,71.402953
+261,Polygon,Huitiupán,39,VII De Los Bosques,LUVISOL,265.437966
+262,Polygon,Huitiupán,39,VII De Los Bosques,No aplica,0.204424
+263,Polygon,Huitiupán,39,VII De Los Bosques,PHAEOZEM,1.323685
+264,Polygon,Huitiupán,39,VII De Los Bosques,PLINTOSOL,0.472767
+265,Polygon,Huixtán,38,V Altos Tsotsil Tseltal,ALISOL,27.457459
+266,Polygon,Huixtán,38,V Altos Tsotsil Tseltal,FLUVISOL,3.182557
+267,Polygon,Huixtán,38,V Altos Tsotsil Tseltal,LUVISOL,255.792683
+268,Polygon,Huixtán,38,V Altos Tsotsil Tseltal,PHAEOZEM,24.125057
+269,Polygon,Huixtla,40,X Soconusco,ARENOSOL,12.771839
+270,Polygon,Huixtla,40,X Soconusco,CAMBISOL,119.295478
+271,Polygon,Huixtla,40,X Soconusco,FLUVISOL,6.23461
+272,Polygon,Huixtla,40,X Soconusco,GLEYSOL,115.158458
+273,Polygon,Huixtla,40,X Soconusco,No aplica,3.896209
+274,Polygon,Huixtla,40,X Soconusco,PHAEOZEM,121.514333
+275,Polygon,Huixtla,40,X Soconusco,REGOSOL,5.03135
+276,Polygon,Huixtla,40,X Soconusco,SOLONCHAK,12.227732
+277,Polygon,Ixhuatán,42,VIII Norte,LEPTOSOL,21.331139
+278,Polygon,Ixhuatán,42,VIII Norte,LUVISOL,66.350458
+279,Polygon,Ixhuatán,42,VIII Norte,PHAEOZEM,6.607608
+280,Polygon,Ixtacomitán,43,VIII Norte,LUVISOL,123.132705
+281,Polygon,Ixtacomitán,43,VIII Norte,PHAEOZEM,2.018343
+282,Polygon,Ixtapa,44,VII De Los Bosques,LEPTOSOL,64.161475
+283,Polygon,Ixtapa,44,VII De Los Bosques,LUVISOL,36.316925
+284,Polygon,Ixtapa,44,VII De Los Bosques,PHAEOZEM,23.688481
+285,Polygon,Ixtapa,44,VII De Los Bosques,REGOSOL,154.690424
+286,Polygon,Ixtapangajoya,45,VIII Norte,LEPTOSOL,1.505389
+287,Polygon,Ixtapangajoya,45,VIII Norte,LUVISOL,105.652631
+288,Polygon,Jiquipilas,46,II Valles Zoque,CAMBISOL,283.411934
+289,Polygon,Jiquipilas,46,II Valles Zoque,FLUVISOL,14.396097
+290,Polygon,Jiquipilas,46,II Valles Zoque,LEPTOSOL,294.561608
+291,Polygon,Jiquipilas,46,II Valles Zoque,LUVISOL,210.340257
+292,Polygon,Jiquipilas,46,II Valles Zoque,No aplica,6.303395
+293,Polygon,Jiquipilas,46,II Valles Zoque,PHAEOZEM,103.305153
+294,Polygon,Jiquipilas,46,II Valles Zoque,PLINTOSOL,4.245888
+295,Polygon,Jiquipilas,46,II Valles Zoque,REGOSOL,210.116914
+296,Polygon,Jiquipilas,46,II Valles Zoque,VERTISOL,173.773427
+297,Polygon,Jitotol,47,VII De Los Bosques,CAMBISOL,0.463937
+298,Polygon,Jitotol,47,VII De Los Bosques,LEPTOSOL,44.671225
+299,Polygon,Jitotol,47,VII De Los Bosques,LUVISOL,70.818659
+300,Polygon,Jitotol,47,VII De Los Bosques,No aplica,0.402098
+301,Polygon,Jitotol,47,VII De Los Bosques,PHAEOZEM,65.563445
+302,Polygon,Jitotol,47,VII De Los Bosques,PLINTOSOL,53.149485
+303,Polygon,Juárez,48,VIII Norte,GLEYSOL,133.594792
+304,Polygon,Juárez,48,VIII Norte,LUVISOL,467.526756
+305,Polygon,Juárez,48,VIII Norte,No aplica,0.693893
+306,Polygon,Juárez,48,VIII Norte,PLINTOSOL,140.398263
+307,Polygon,La Concordia,20,VI Frailesca,ACRISOL,450.581056
+308,Polygon,La Concordia,20,VI Frailesca,CAMBISOL,241.327494
+309,Polygon,La Concordia,20,VI Frailesca,FLUVISOL,45.76351
+310,Polygon,La Concordia,20,VI Frailesca,LEPTOSOL,1092.228415
+311,Polygon,La Concordia,20,VI Frailesca,LUVISOL,288.137073
+312,Polygon,La Concordia,20,VI Frailesca,No aplica,108.307605
+313,Polygon,La Concordia,20,VI Frailesca,PHAEOZEM,85.896439
+314,Polygon,La Concordia,20,VI Frailesca,REGOSOL,257.582638
+315,Polygon,La Grandeza,36,XI Sierra Mariscal,ACRISOL,6.762546
+316,Polygon,La Grandeza,36,XI Sierra Mariscal,ANDOSOL,41.897764
+317,Polygon,La Independencia,41,XV Meseta Comiteca Tojolabal,ACRISOL,39.046332
+318,Polygon,La Independencia,41,XV Meseta Comiteca Tojolabal,LEPTOSOL,131.974681
+319,Polygon,La Independencia,41,XV Meseta Comiteca Tojolabal,LUVISOL,109.072078
+320,Polygon,La Independencia,41,XV Meseta Comiteca Tojolabal,No aplica,4.709103
+321,Polygon,La Independencia,41,XV Meseta Comiteca Tojolabal,PHAEOZEM,123.026715
+322,Polygon,La Independencia,41,XV Meseta Comiteca Tojolabal,PLANOSOL,2.339282
+323,Polygon,La Independencia,41,XV Meseta Comiteca Tojolabal,VERTISOL,103.86574
+324,Polygon,La Libertad,50,XIII Maya,ARENOSOL,26.571405
+325,Polygon,La Libertad,50,XIII Maya,FLUVISOL,225.535947
+326,Polygon,La Libertad,50,XIII Maya,GLEYSOL,100.362866
+327,Polygon,La Libertad,50,XIII Maya,LUVISOL,99.750678
+328,Polygon,La Libertad,50,XIII Maya,No aplica,4.221512
+329,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,ACRISOL,16.096176
+330,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,CAMBISOL,18.546324
+331,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,FLUVISOL,12.531685
+332,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,LEPTOSOL,368.830116
+333,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,LUVISOL,409.618461
+334,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,No aplica,13.545496
+335,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,PHAEOZEM,408.563484
+336,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,PLANOSOL,40.552026
+337,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,REGOSOL,7.437078
+338,Polygon,La Trinitaria,99,XV Meseta Comiteca Tojolabal,VERTISOL,305.848509
+339,Polygon,Larráinzar,49,V Altos Tsotsil Tseltal,LEPTOSOL,2.724285
+340,Polygon,Larráinzar,49,V Altos Tsotsil Tseltal,LUVISOL,114.694392
+341,Polygon,Larráinzar,49,V Altos Tsotsil Tseltal,PHAEOZEM,31.258788
+342,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,ACRISOL,13.532602
+343,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,CAMBISOL,141.183314
+344,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,FLUVISOL,12.168896
+345,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,LEPTOSOL,1055.01435
+346,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,LUVISOL,1260.500165
+347,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,No aplica,2.590695
+348,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,PHAEOZEM,403.643127
+349,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,REGOSOL,22.236614
+350,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,UMBRISOL,0.193143
+351,Polygon,Las Margaritas,52,XV Meseta Comiteca Tojolabal,VERTISOL,103.320047
+352,Polygon,Las Rosas,75,XV Meseta Comiteca Tojolabal,LEPTOSOL,115.152044
+353,Polygon,Las Rosas,75,XV Meseta Comiteca Tojolabal,LUVISOL,55.303333
+354,Polygon,Las Rosas,75,XV Meseta Comiteca Tojolabal,No aplica,2.414338
+355,Polygon,Las Rosas,75,XV Meseta Comiteca Tojolabal,PHAEOZEM,0.167262
+356,Polygon,Las Rosas,75,XV Meseta Comiteca Tojolabal,VERTISOL,61.610908
+357,Polygon,Mapastepec,51,IX Istmo Costa,ARENOSOL,21.997707
+358,Polygon,Mapastepec,51,IX Istmo Costa,CAMBISOL,445.230467
+359,Polygon,Mapastepec,51,IX Istmo Costa,FLUVISOL,54.190736
+360,Polygon,Mapastepec,51,IX Istmo Costa,GLEYSOL,65.615485
+361,Polygon,Mapastepec,51,IX Istmo Costa,LEPTOSOL,248.861934
+362,Polygon,Mapastepec,51,IX Istmo Costa,LUVISOL,38.098755
+363,Polygon,Mapastepec,51,IX Istmo Costa,No aplica,11.677621
+364,Polygon,Mapastepec,51,IX Istmo Costa,REGOSOL,268.845314
+365,Polygon,Mapastepec,51,IX Istmo Costa,SOLONCHAK,64.47393
+366,Polygon,Maravilla Tenejapa,115,XV Meseta Comiteca Tojolabal,CAMBISOL,41.473837
+367,Polygon,Maravilla Tenejapa,115,XV Meseta Comiteca Tojolabal,FLUVISOL,5.168305
+368,Polygon,Maravilla Tenejapa,115,XV Meseta Comiteca Tojolabal,LEPTOSOL,186.379362
+369,Polygon,Maravilla Tenejapa,115,XV Meseta Comiteca Tojolabal,LUVISOL,135.904483
+370,Polygon,Maravilla Tenejapa,115,XV Meseta Comiteca Tojolabal,No aplica,1.951627
+371,Polygon,Maravilla Tenejapa,115,XV Meseta Comiteca Tojolabal,PHAEOZEM,104.845142
+372,Polygon,Maravilla Tenejapa,115,XV Meseta Comiteca Tojolabal,REGOSOL,19.478354
+373,Polygon,Maravilla Tenejapa,115,XV Meseta Comiteca Tojolabal,VERTISOL,47.646074
+374,Polygon,Marqués de Comillas,116,XIII Maya,CAMBISOL,4.541696
+375,Polygon,Marqués de Comillas,116,XIII Maya,FLUVISOL,68.508641
+376,Polygon,Marqués de Comillas,116,XIII Maya,GLEYSOL,190.685432
+377,Polygon,Marqués de Comillas,116,XIII Maya,LUVISOL,379.565618
+378,Polygon,Marqués de Comillas,116,XIII Maya,No aplica,1.630153
+379,Polygon,Marqués de Comillas,116,XIII Maya,PHAEOZEM,123.521379
+380,Polygon,Marqués de Comillas,116,XIII Maya,UMBRISOL,24.060018
+381,Polygon,Marqués de Comillas,116,XIII Maya,VERTISOL,116.801416
+382,Polygon,Mazapa de Madero,53,XI Sierra Mariscal,ANDOSOL,2.539808
+383,Polygon,Mazapa de Madero,53,XI Sierra Mariscal,CAMBISOL,45.026047
+384,Polygon,Mazapa de Madero,53,XI Sierra Mariscal,FLUVISOL,2.69295
+385,Polygon,Mazapa de Madero,53,XI Sierra Mariscal,REGOSOL,58.984333
+386,Polygon,Mazatán,54,X Soconusco,ARENOSOL,13.549658
+387,Polygon,Mazatán,54,X Soconusco,FLUVISOL,0.537789
+388,Polygon,Mazatán,54,X Soconusco,GLEYSOL,57.461572
+389,Polygon,Mazatán,54,X Soconusco,No aplica,5.625313
+390,Polygon,Mazatán,54,X Soconusco,PHAEOZEM,253.304933
+391,Polygon,Mazatán,54,X Soconusco,REGOSOL,8.627191
+392,Polygon,Mazatán,54,X Soconusco,SOLONCHAK,44.972331
+393,Polygon,Metapa,55,X Soconusco,CAMBISOL,19.944884
+394,Polygon,Metapa,55,X Soconusco,FLUVISOL,2.134956
+395,Polygon,Metapa,55,X Soconusco,LUVISOL,0.486378
+396,Polygon,Metapa,55,X Soconusco,No aplica,0.125723
+397,Polygon,Mezcalapa,124,III Mezcalapa,CAMBISOL,65.623066
+398,Polygon,Mezcalapa,124,III Mezcalapa,LEPTOSOL,7.422319
+399,Polygon,Mezcalapa,124,III Mezcalapa,LUVISOL,433.022824
+400,Polygon,Mezcalapa,124,III Mezcalapa,No aplica,197.892171
+401,Polygon,Mezcalapa,124,III Mezcalapa,PLINTOSOL,42.295536
+402,Polygon,Mitontic,56,V Altos Tsotsil Tseltal,LEPTOSOL,4.819897
+403,Polygon,Mitontic,56,V Altos Tsotsil Tseltal,LUVISOL,30.731729
+404,Polygon,Mitontic,56,V Altos Tsotsil Tseltal,PHAEOZEM,0.956584
+405,Polygon,Montecristo de Guerrero,117,VI Frailesca,ACRISOL,3.05829
+406,Polygon,Montecristo de Guerrero,117,VI Frailesca,CAMBISOL,47.001781
+407,Polygon,Montecristo de Guerrero,117,VI Frailesca,FLUVISOL,6.64837
+408,Polygon,Montecristo de Guerrero,117,VI Frailesca,LEPTOSOL,101.983737
+409,Polygon,Montecristo de Guerrero,117,VI Frailesca,LUVISOL,27.893232
+410,Polygon,Montecristo de Guerrero,117,VI Frailesca,REGOSOL,11.162513
+411,Polygon,Motozintla,57,XI Sierra Mariscal,ACRISOL,88.803843
+412,Polygon,Motozintla,57,XI Sierra Mariscal,CAMBISOL,102.823391
+413,Polygon,Motozintla,57,XI Sierra Mariscal,FLUVISOL,2.130072
+414,Polygon,Motozintla,57,XI Sierra Mariscal,LUVISOL,127.050798
+415,Polygon,Motozintla,57,XI Sierra Mariscal,No aplica,1.023679
+416,Polygon,Motozintla,57,XI Sierra Mariscal,PHAEOZEM,92.134382
+417,Polygon,Motozintla,57,XI Sierra Mariscal,REGOSOL,169.952273
+418,Polygon,Nicolás Ruíz,58,IV De Los Llanos,LUVISOL,23.688552
+419,Polygon,Nicolás Ruíz,58,IV De Los Llanos,PHAEOZEM,5.81707
+420,Polygon,Ocosingo,59,XII Selva Lacandona,ACRISOL,78.119202
+421,Polygon,Ocosingo,59,XII Selva Lacandona,CAMBISOL,880.063684
+422,Polygon,Ocosingo,59,XII Selva Lacandona,FLUVISOL,43.411244
+423,Polygon,Ocosingo,59,XII Selva Lacandona,GLEYSOL,405.787044
+424,Polygon,Ocosingo,59,XII Selva Lacandona,LEPTOSOL,2499.644789
+425,Polygon,Ocosingo,59,XII Selva Lacandona,LUVISOL,2790.219487
+426,Polygon,Ocosingo,59,XII Selva Lacandona,NITISOL,10.286179
+427,Polygon,Ocosingo,59,XII Selva Lacandona,No aplica,100.24864
+428,Polygon,Ocosingo,59,XII Selva Lacandona,PHAEOZEM,1877.198938
+429,Polygon,Ocosingo,59,XII Selva Lacandona,REGOSOL,128.274052
+430,Polygon,Ocosingo,59,XII Selva Lacandona,UMBRISOL,411.701352
+431,Polygon,Ocosingo,59,XII Selva Lacandona,VERTISOL,342.501942
+432,Polygon,Ocotepec,60,III Mezcalapa,LUVISOL,31.115178
+433,Polygon,Ocotepec,60,III Mezcalapa,No aplica,0.152186
+434,Polygon,Ocotepec,60,III Mezcalapa,PHAEOZEM,29.823267
+435,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,ALISOL,0.148307
+436,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,CAMBISOL,63.603153
+437,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,FLUVISOL,1.109358
+438,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,LEPTOSOL,732.432631
+439,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,LUVISOL,569.820908
+440,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,No aplica,64.231536
+441,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,PHAEOZEM,488.205208
+442,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,PLINTOSOL,3.985607
+443,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,REGOSOL,30.746957
+444,Polygon,Ocozocoautla de Espinosa,61,II Valles Zoque,VERTISOL,128.125737
+445,Polygon,Ostuacán,62,VIII Norte,ACRISOL,6.110435
+446,Polygon,Ostuacán,62,VIII Norte,ARENOSOL,10.090898
+447,Polygon,Ostuacán,62,VIII Norte,CAMBISOL,15.549074
+448,Polygon,Ostuacán,62,VIII Norte,GLEYSOL,32.170717
+449,Polygon,Ostuacán,62,VIII Norte,LIXISOL,32.734051
+450,Polygon,Ostuacán,62,VIII Norte,LUVISOL,405.527451
+451,Polygon,Ostuacán,62,VIII Norte,No aplica,36.62133
+452,Polygon,Ostuacán,62,VIII Norte,PHAEOZEM,12.101956
+453,Polygon,Ostuacán,62,VIII Norte,PLINTOSOL,46.631436
+454,Polygon,Osumacinta,63,III Mezcalapa,LEPTOSOL,39.225232
+455,Polygon,Osumacinta,63,III Mezcalapa,LUVISOL,3.727198
+456,Polygon,Osumacinta,63,III Mezcalapa,No aplica,13.989016
+457,Polygon,Osumacinta,63,III Mezcalapa,REGOSOL,35.282617
+458,Polygon,Oxchuc,64,V Altos Tsotsil Tseltal,LEPTOSOL,160.307512
+459,Polygon,Oxchuc,64,V Altos Tsotsil Tseltal,LUVISOL,255.268028
+460,Polygon,Oxchuc,64,V Altos Tsotsil Tseltal,No aplica,0.615001
+461,Polygon,Oxchuc,64,V Altos Tsotsil Tseltal,PHAEOZEM,0.005838
+462,Polygon,Palenque,65,XIII Maya,FLUVISOL,11.821062
+463,Polygon,Palenque,65,XIII Maya,GLEYSOL,405.505449
+464,Polygon,Palenque,65,XIII Maya,LEPTOSOL,644.507545
+465,Polygon,Palenque,65,XIII Maya,LUVISOL,795.341204
+466,Polygon,Palenque,65,XIII Maya,No aplica,23.719323
+467,Polygon,Palenque,65,XIII Maya,PHAEOZEM,359.352291
+468,Polygon,Palenque,65,XIII Maya,REGOSOL,646.296669
+469,Polygon,Pantelhó,66,V Altos Tsotsil Tseltal,LEPTOSOL,8.344922
+470,Polygon,Pantelhó,66,V Altos Tsotsil Tseltal,LUVISOL,148.204981
+471,Polygon,Pantelhó,66,V Altos Tsotsil Tseltal,PHAEOZEM,0.040814
+472,Polygon,Pantelhó,66,V Altos Tsotsil Tseltal,PLINTOSOL,35.810539
+473,Polygon,Pantepec,67,VII De Los Bosques,LEPTOSOL,32.228781
+474,Polygon,Pantepec,67,VII De Los Bosques,LUVISOL,32.370526
+475,Polygon,Pantepec,67,VII De Los Bosques,PHAEOZEM,40.991119
+476,Polygon,Pichucalco,68,VIII Norte,ACRISOL,2.633917
+477,Polygon,Pichucalco,68,VIII Norte,ARENOSOL,0.048454
+478,Polygon,Pichucalco,68,VIII Norte,GLEYSOL,40.473685
+479,Polygon,Pichucalco,68,VIII Norte,LIXISOL,9.983833
+480,Polygon,Pichucalco,68,VIII Norte,LUVISOL,514.065008
+481,Polygon,Pichucalco,68,VIII Norte,No aplica,1.502852
+482,Polygon,Pichucalco,68,VIII Norte,PLINTOSOL,2.807948
+483,Polygon,Pichucalco,68,VIII Norte,REGOSOL,21.167553
+484,Polygon,Pijijiapan,69,IX Istmo Costa,ARENOSOL,14.745797
+485,Polygon,Pijijiapan,69,IX Istmo Costa,CAMBISOL,370.282023
+486,Polygon,Pijijiapan,69,IX Istmo Costa,FLUVISOL,65.758651
+487,Polygon,Pijijiapan,69,IX Istmo Costa,GLEYSOL,159.826966
+488,Polygon,Pijijiapan,69,IX Istmo Costa,LEPTOSOL,261.633449
+489,Polygon,Pijijiapan,69,IX Istmo Costa,LUVISOL,70.596586
+490,Polygon,Pijijiapan,69,IX Istmo Costa,No aplica,25.374533
+491,Polygon,Pijijiapan,69,IX Istmo Costa,REGOSOL,599.192031
+492,Polygon,Pijijiapan,69,IX Istmo Costa,SOLONCHAK,179.476631
+493,Polygon,Pueblo Nuevo Solistahuacán,72,VII De Los Bosques,CAMBISOL,5.779902
+494,Polygon,Pueblo Nuevo Solistahuacán,72,VII De Los Bosques,LEPTOSOL,0.877711
+495,Polygon,Pueblo Nuevo Solistahuacán,72,VII De Los Bosques,LUVISOL,92.379254
+496,Polygon,Pueblo Nuevo Solistahuacán,72,VII De Los Bosques,PHAEOZEM,5.018277
+497,Polygon,Pueblo Nuevo Solistahuacán,72,VII De Los Bosques,PLINTOSOL,73.480326
+498,Polygon,Rayón,73,VII De Los Bosques,LEPTOSOL,45.422876
+499,Polygon,Rayón,73,VII De Los Bosques,LUVISOL,15.857165
+500,Polygon,Rayón,73,VII De Los Bosques,No aplica,0.41188
+501,Polygon,Rayón,73,VII De Los Bosques,PHAEOZEM,3.170877
+502,Polygon,Reforma,74,VIII Norte,GLEYSOL,180.544679
+503,Polygon,Reforma,74,VIII Norte,LUVISOL,2.653558
+504,Polygon,Reforma,74,VIII Norte,No aplica,13.646767
+505,Polygon,Reforma,74,VIII Norte,PLINTOSOL,237.711591
+506,Polygon,Rincón Chamula San Pedro,121,VII De Los Bosques,LEPTOSOL,6.64479
+507,Polygon,Rincón Chamula San Pedro,121,VII De Los Bosques,LUVISOL,66.899251
+508,Polygon,Rincón Chamula San Pedro,121,VII De Los Bosques,PHAEOZEM,2.910501
+509,Polygon,Rincón Chamula San Pedro,121,VII De Los Bosques,PLINTOSOL,1.480203
+510,Polygon,Sabanilla,76,XIV Tulijá Tseltal Chol,LEPTOSOL,85.774982
+511,Polygon,Sabanilla,76,XIV Tulijá Tseltal Chol,LUVISOL,160.733588
+512,Polygon,Sabanilla,76,XIV Tulijá Tseltal Chol,PHAEOZEM,3.254104
+513,Polygon,Salto de Agua,77,XIV Tulijá Tseltal Chol,ACRISOL,43.551442
+514,Polygon,Salto de Agua,77,XIV Tulijá Tseltal Chol,GLEYSOL,0.029331
+515,Polygon,Salto de Agua,77,XIV Tulijá Tseltal Chol,LEPTOSOL,90.946335
+516,Polygon,Salto de Agua,77,XIV Tulijá Tseltal Chol,LUVISOL,673.977601
+517,Polygon,Salto de Agua,77,XIV Tulijá Tseltal Chol,No aplica,12.518546
+518,Polygon,Salto de Agua,77,XIV Tulijá Tseltal Chol,PHAEOZEM,179.662516
+519,Polygon,Salto de Agua,77,XIV Tulijá Tseltal Chol,PLINTOSOL,23.778721
+520,Polygon,Salto de Agua,77,XIV Tulijá Tseltal Chol,REGOSOL,203.030332
+521,Polygon,San Andrés Duraznal,118,VII De Los Bosques,LUVISOL,4.821476
+522,Polygon,San Andrés Duraznal,118,VII De Los Bosques,PLINTOSOL,33.484884
+523,Polygon,San Cristóbal de Las Casas,78,V Altos Tsotsil Tseltal,ALISOL,67.870326
+524,Polygon,San Cristóbal de Las Casas,78,V Altos Tsotsil Tseltal,GLEYSOL,8.056103
+525,Polygon,San Cristóbal de Las Casas,78,V Altos Tsotsil Tseltal,LEPTOSOL,39.994257
+526,Polygon,San Cristóbal de Las Casas,78,V Altos Tsotsil Tseltal,LUVISOL,265.565218
+527,Polygon,San Cristóbal de Las Casas,78,V Altos Tsotsil Tseltal,No aplica,12.390646
+528,Polygon,San Fernando,79,III Mezcalapa,LEPTOSOL,156.530003
+529,Polygon,San Fernando,79,III Mezcalapa,LUVISOL,167.648736
+530,Polygon,San Fernando,79,III Mezcalapa,No aplica,3.788361
+531,Polygon,San Fernando,79,III Mezcalapa,PHAEOZEM,3.551659
+532,Polygon,San Fernando,79,III Mezcalapa,REGOSOL,23.781776
+533,Polygon,San Fernando,79,III Mezcalapa,VERTISOL,3.955436
+534,Polygon,San Juan Cancuc,112,V Altos Tsotsil Tseltal,LEPTOSOL,43.250123
+535,Polygon,San Juan Cancuc,112,V Altos Tsotsil Tseltal,LUVISOL,77.955438
+536,Polygon,San Juan Cancuc,112,V Altos Tsotsil Tseltal,PHAEOZEM,51.714367
+537,Polygon,San Lucas,110,IV De Los Llanos,LEPTOSOL,21.243454
+538,Polygon,San Lucas,110,IV De Los Llanos,LUVISOL,59.275351
+539,Polygon,San Lucas,110,IV De Los Llanos,REGOSOL,6.696365
+540,Polygon,San Lucas,110,IV De Los Llanos,VERTISOL,6.747495
+541,Polygon,Santiago el Pinar,119,V Altos Tsotsil Tseltal,LUVISOL,2.06998
+542,Polygon,Santiago el Pinar,119,V Altos Tsotsil Tseltal,PHAEOZEM,14.452931
+543,Polygon,Siltepec,80,XI Sierra Mariscal,ACRISOL,116.447055
+544,Polygon,Siltepec,80,XI Sierra Mariscal,ANDOSOL,31.542369
+545,Polygon,Siltepec,80,XI Sierra Mariscal,CAMBISOL,0.000083
+546,Polygon,Siltepec,80,XI Sierra Mariscal,LEPTOSOL,153.585313
+547,Polygon,Siltepec,80,XI Sierra Mariscal,LUVISOL,75.704105
+548,Polygon,Siltepec,80,XI Sierra Mariscal,No aplica,0.265493
+549,Polygon,Siltepec,80,XI Sierra Mariscal,REGOSOL,6.733004
+550,Polygon,Simojovel,81,VII De Los Bosques,LEPTOSOL,0.535264
+551,Polygon,Simojovel,81,VII De Los Bosques,LUVISOL,148.013771
+552,Polygon,Simojovel,81,VII De Los Bosques,PHAEOZEM,26.680241
+553,Polygon,Simojovel,81,VII De Los Bosques,PLINTOSOL,138.477795
+554,Polygon,Sitalá,82,XIV Tulijá Tseltal Chol,LUVISOL,77.942304
+555,Polygon,Sitalá,82,XIV Tulijá Tseltal Chol,PHAEOZEM,27.090838
+556,Polygon,Sitalá,82,XIV Tulijá Tseltal Chol,VERTISOL,0.297844
+557,Polygon,Socoltenango,83,IV De Los Llanos,LEPTOSOL,260.013947
+558,Polygon,Socoltenango,83,IV De Los Llanos,LUVISOL,18.144734
+559,Polygon,Socoltenango,83,IV De Los Llanos,No aplica,223.948138
+560,Polygon,Socoltenango,83,IV De Los Llanos,PHAEOZEM,28.669628
+561,Polygon,Socoltenango,83,IV De Los Llanos,VERTISOL,101.531981
+562,Polygon,Solosuchiapa,84,VIII Norte,LEPTOSOL,5.114765
+563,Polygon,Solosuchiapa,84,VIII Norte,LUVISOL,148.494478
+564,Polygon,Solosuchiapa,84,VIII Norte,PHAEOZEM,2.593485
+565,Polygon,Soyaló,85,VII De Los Bosques,LEPTOSOL,20.516164
+566,Polygon,Soyaló,85,VII De Los Bosques,LUVISOL,0.911674
+567,Polygon,Soyaló,85,VII De Los Bosques,PHAEOZEM,6.10159
+568,Polygon,Soyaló,85,VII De Los Bosques,REGOSOL,68.478215
+569,Polygon,Suchiapa,86,I Metropolitana,FLUVISOL,1.659451
+570,Polygon,Suchiapa,86,I Metropolitana,LEPTOSOL,192.267862
+571,Polygon,Suchiapa,86,I Metropolitana,LUVISOL,20.940626
+572,Polygon,Suchiapa,86,I Metropolitana,No aplica,1.924514
+573,Polygon,Suchiapa,86,I Metropolitana,PHAEOZEM,19.004225
+574,Polygon,Suchiapa,86,I Metropolitana,REGOSOL,17.139525
+575,Polygon,Suchiapa,86,I Metropolitana,VERTISOL,30.723116
+576,Polygon,Suchiate,87,X Soconusco,ARENOSOL,8.034149
+577,Polygon,Suchiate,87,X Soconusco,CAMBISOL,39.791922
+578,Polygon,Suchiate,87,X Soconusco,FLUVISOL,5.905411
+579,Polygon,Suchiate,87,X Soconusco,LUVISOL,26.988311
+580,Polygon,Suchiate,87,X Soconusco,No aplica,6.122382
+581,Polygon,Suchiate,87,X Soconusco,PHAEOZEM,122.850578
+582,Polygon,Suchiate,87,X Soconusco,SOLONCHAK,26.898977
+583,Polygon,Sunuapa,88,VIII Norte,LIXISOL,0.050061
+584,Polygon,Sunuapa,88,VIII Norte,LUVISOL,78.223818
+585,Polygon,Tapachula,89,X Soconusco,ACRISOL,113.865979
+586,Polygon,Tapachula,89,X Soconusco,ANDOSOL,0.584129
+587,Polygon,Tapachula,89,X Soconusco,ARENOSOL,10.184062
+588,Polygon,Tapachula,89,X Soconusco,CAMBISOL,73.275038
+589,Polygon,Tapachula,89,X Soconusco,FLUVISOL,33.371866
+590,Polygon,Tapachula,89,X Soconusco,LUVISOL,583.418162
+591,Polygon,Tapachula,89,X Soconusco,No aplica,16.387378
+592,Polygon,Tapachula,89,X Soconusco,PHAEOZEM,124.851822
+593,Polygon,Tapachula,89,X Soconusco,REGOSOL,0.779993
+594,Polygon,Tapachula,89,X Soconusco,SOLONCHAK,22.572886
+595,Polygon,Tapalapa,90,VII De Los Bosques,LEPTOSOL,0.02177
+596,Polygon,Tapalapa,90,VII De Los Bosques,LUVISOL,17.584938
+597,Polygon,Tapalapa,90,VII De Los Bosques,PHAEOZEM,48.439557
+598,Polygon,Tapilula,91,VII De Los Bosques,LEPTOSOL,15.901349
+599,Polygon,Tapilula,91,VII De Los Bosques,LUVISOL,21.427742
+600,Polygon,Tapilula,91,VII De Los Bosques,PHAEOZEM,0.093199
+601,Polygon,Tecpatán,92,III Mezcalapa,CAMBISOL,34.701319
+602,Polygon,Tecpatán,92,III Mezcalapa,LUVISOL,394.000091
+603,Polygon,Tecpatán,92,III Mezcalapa,No aplica,46.731289
+604,Polygon,Tecpatán,92,III Mezcalapa,PHAEOZEM,45.828413
+605,Polygon,Tenejapa,93,V Altos Tsotsil Tseltal,LEPTOSOL,28.899457
+606,Polygon,Tenejapa,93,V Altos Tsotsil Tseltal,LUVISOL,145.145849
+607,Polygon,Tenejapa,93,V Altos Tsotsil Tseltal,PHAEOZEM,18.276571
+608,Polygon,Teopisca,94,V Altos Tsotsil Tseltal,ALISOL,40.396256
+609,Polygon,Teopisca,94,V Altos Tsotsil Tseltal,GLEYSOL,4.122593
+610,Polygon,Teopisca,94,V Altos Tsotsil Tseltal,LEPTOSOL,55.399653
+611,Polygon,Teopisca,94,V Altos Tsotsil Tseltal,LUVISOL,163.116287
+612,Polygon,Teopisca,94,V Altos Tsotsil Tseltal,No aplica,1.076062
+613,Polygon,Teopisca,94,V Altos Tsotsil Tseltal,PLANOSOL,3.234466
+614,Polygon,Teopisca,94,V Altos Tsotsil Tseltal,REGOSOL,15.955262
+615,Polygon,Tila,96,XIV Tulijá Tseltal Chol,LEPTOSOL,149.617134
+616,Polygon,Tila,96,XIV Tulijá Tseltal Chol,LUVISOL,553.227807
+617,Polygon,Tila,96,XIV Tulijá Tseltal Chol,No aplica,1.202111
+618,Polygon,Tila,96,XIV Tulijá Tseltal Chol,PHAEOZEM,41.093128
+619,Polygon,Tila,96,XIV Tulijá Tseltal Chol,PLINTOSOL,51.967024
+620,Polygon,Tila,96,XIV Tulijá Tseltal Chol,VERTISOL,3.570319
+621,Polygon,Tonalá,97,IX Istmo Costa,ARENOSOL,67.08915
+622,Polygon,Tonalá,97,IX Istmo Costa,CAMBISOL,198.967394
+623,Polygon,Tonalá,97,IX Istmo Costa,FLUVISOL,5.608917
+624,Polygon,Tonalá,97,IX Istmo Costa,GLEYSOL,44.410778
+625,Polygon,Tonalá,97,IX Istmo Costa,LEPTOSOL,390.863106
+626,Polygon,Tonalá,97,IX Istmo Costa,LUVISOL,425.519226
+627,Polygon,Tonalá,97,IX Istmo Costa,No aplica,69.996048
+628,Polygon,Tonalá,97,IX Istmo Costa,PHAEOZEM,98.23685
+629,Polygon,Tonalá,97,IX Istmo Costa,REGOSOL,203.850314
+630,Polygon,Tonalá,97,IX Istmo Costa,SOLONCHAK,129.952769
+631,Polygon,Totolapa,98,IV De Los Llanos,FLUVISOL,6.488907
+632,Polygon,Totolapa,98,IV De Los Llanos,LEPTOSOL,13.572683
+633,Polygon,Totolapa,98,IV De Los Llanos,LUVISOL,41.537701
+634,Polygon,Totolapa,98,IV De Los Llanos,No aplica,1.273877
+635,Polygon,Totolapa,98,IV De Los Llanos,PHAEOZEM,55.958693
+636,Polygon,Totolapa,98,IV De Los Llanos,REGOSOL,39.013735
+637,Polygon,Totolapa,98,IV De Los Llanos,VERTISOL,10.553755
+638,Polygon,Tumbalá,100,XIV Tulijá Tseltal Chol,ACRISOL,0.307202
+639,Polygon,Tumbalá,100,XIV Tulijá Tseltal Chol,LUVISOL,196.445559
+640,Polygon,Tumbalá,100,XIV Tulijá Tseltal Chol,PHAEOZEM,187.329319
+641,Polygon,Tumbalá,100,XIV Tulijá Tseltal Chol,UMBRISOL,17.851628
+642,Polygon,Tuxtla Chico,102,X Soconusco,CAMBISOL,73.556736
+643,Polygon,Tuxtla Chico,102,X Soconusco,FLUVISOL,1.968056
+644,Polygon,Tuxtla Chico,102,X Soconusco,LUVISOL,88.586519
+645,Polygon,Tuxtla Chico,102,X Soconusco,No aplica,1.22298
+646,Polygon,Tuxtla Gutiérrez,101,I Metropolitana,LEPTOSOL,118.362012
+647,Polygon,Tuxtla Gutiérrez,101,I Metropolitana,LUVISOL,38.063233
+648,Polygon,Tuxtla Gutiérrez,101,I Metropolitana,No aplica,54.542435
+649,Polygon,Tuxtla Gutiérrez,101,I Metropolitana,REGOSOL,62.36304
+650,Polygon,Tuxtla Gutiérrez,101,I Metropolitana,VERTISOL,61.281927
+651,Polygon,Tuzantán,103,X Soconusco,ACRISOL,25.29784
+652,Polygon,Tuzantán,103,X Soconusco,CAMBISOL,45.356554
+653,Polygon,Tuzantán,103,X Soconusco,FLUVISOL,2.65361
+654,Polygon,Tuzantán,103,X Soconusco,LUVISOL,15.972665
+655,Polygon,Tuzantán,103,X Soconusco,No aplica,0.114113
+656,Polygon,Tuzantán,103,X Soconusco,PHAEOZEM,76.748486
+657,Polygon,Tuzantán,103,X Soconusco,REGOSOL,7.980844
+658,Polygon,Tzimol,104,XV Meseta Comiteca Tojolabal,LEPTOSOL,305.733832
+659,Polygon,Tzimol,104,XV Meseta Comiteca Tojolabal,No aplica,2.517157
+660,Polygon,Tzimol,104,XV Meseta Comiteca Tojolabal,PHAEOZEM,0.512961
+661,Polygon,Tzimol,104,XV Meseta Comiteca Tojolabal,VERTISOL,49.196644
+662,Polygon,Unión Juárez,105,X Soconusco,ANDOSOL,45.728876
+663,Polygon,Unión Juárez,105,X Soconusco,CAMBISOL,12.26504
+664,Polygon,Venustiano Carranza,106,IV De Los Llanos,FLUVISOL,21.000509
+665,Polygon,Venustiano Carranza,106,IV De Los Llanos,GLEYSOL,2.020672
+666,Polygon,Venustiano Carranza,106,IV De Los Llanos,LEPTOSOL,559.940296
+667,Polygon,Venustiano Carranza,106,IV De Los Llanos,LUVISOL,202.262772
+668,Polygon,Venustiano Carranza,106,IV De Los Llanos,No aplica,128.766342
+669,Polygon,Venustiano Carranza,106,IV De Los Llanos,PHAEOZEM,226.716634
+670,Polygon,Venustiano Carranza,106,IV De Los Llanos,REGOSOL,37.578133
+671,Polygon,Venustiano Carranza,106,IV De Los Llanos,VERTISOL,180.679938
+672,Polygon,Villa Comaltitlán,71,X Soconusco,ARENOSOL,0.171641
+673,Polygon,Villa Comaltitlán,71,X Soconusco,CAMBISOL,188.740043
+674,Polygon,Villa Comaltitlán,71,X Soconusco,FLUVISOL,32.719825
+675,Polygon,Villa Comaltitlán,71,X Soconusco,GLEYSOL,68.671331
+676,Polygon,Villa Comaltitlán,71,X Soconusco,No aplica,5.776487
+677,Polygon,Villa Comaltitlán,71,X Soconusco,PHAEOZEM,65.200141
+678,Polygon,Villa Comaltitlán,71,X Soconusco,REGOSOL,60.350198
+679,Polygon,Villa Comaltitlán,71,X Soconusco,SOLONCHAK,23.153635
+680,Polygon,Villa Corzo,107,VI Frailesca,CAMBISOL,540.065337
+681,Polygon,Villa Corzo,107,VI Frailesca,FLUVISOL,14.921151
+682,Polygon,Villa Corzo,107,VI Frailesca,LEPTOSOL,485.031717
+683,Polygon,Villa Corzo,107,VI Frailesca,LUVISOL,331.02865
+684,Polygon,Villa Corzo,107,VI Frailesca,No aplica,74.749355
+685,Polygon,Villa Corzo,107,VI Frailesca,PHAEOZEM,8.224043
+686,Polygon,Villa Corzo,107,VI Frailesca,REGOSOL,928.081537
+687,Polygon,Villa Corzo,107,VI Frailesca,VERTISOL,3.064261
+688,Polygon,Villaflores,108,VI Frailesca,ALISOL,32.447923
+689,Polygon,Villaflores,108,VI Frailesca,CAMBISOL,582.573828
+690,Polygon,Villaflores,108,VI Frailesca,FLUVISOL,40.114392
+691,Polygon,Villaflores,108,VI Frailesca,LEPTOSOL,697.48821
+692,Polygon,Villaflores,108,VI Frailesca,LUVISOL,226.468917
+693,Polygon,Villaflores,108,VI Frailesca,No aplica,6.146544
+694,Polygon,Villaflores,108,VI Frailesca,PHAEOZEM,58.535912
+695,Polygon,Villaflores,108,VI Frailesca,PLANOSOL,19.302019
+696,Polygon,Villaflores,108,VI Frailesca,REGOSOL,135.043727
+697,Polygon,Villaflores,108,VI Frailesca,VERTISOL,99.850927
+698,Polygon,Yajalón,109,XIV Tulijá Tseltal Chol,LEPTOSOL,12.403237
+699,Polygon,Yajalón,109,XIV Tulijá Tseltal Chol,LUVISOL,95.713528
+700,Polygon,Yajalón,109,XIV Tulijá Tseltal Chol,No aplica,0.928201
+701,Polygon,Yajalón,109,XIV Tulijá Tseltal Chol,PHAEOZEM,88.09866
+702,Polygon,Yajalón,109,XIV Tulijá Tseltal Chol,VERTISOL,11.980513
+703,Polygon,Zinacantán,111,V Altos Tsotsil Tseltal,LEPTOSOL,22.209933
+704,Polygon,Zinacantán,111,V Altos Tsotsil Tseltal,LUVISOL,137.436771
+705,Polygon,Zinacantán,111,V Altos Tsotsil Tseltal,PHAEOZEM,3.510939
+706,Polygon,Zinacantán,111,V Altos Tsotsil Tseltal,REGOSOL,31.295841

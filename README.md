@@ -53,10 +53,10 @@ Los dashboards interactivos en Power BI integran todas las fases del análisis. 
 ## Contacto
 | Integrantes                       | Rol                   | GitHub      | LinkedIn |
 |---------------------------        |-----------------------|-------------|----------|
-| Rosa Isela Gonzales Diaz          | Científica de Datos   | [GitHub](#https://github.com/Rox-0864) | [LinkedIn](#) |
-| Luis Miguel Hoyos Ordoñez         | Analista de Datos     | [GitHub](#https://github.com/1996LM) | [LinkedIn](#https://www.linkedin.com/in/luis-hoyos-ciencia-datos/) |
-| Marian Davinia Gil Montaño        | Analista de Datos     | [GitHub](#https://github.com/Pinha8888) | [LinkedIn](#https://www.linkedin.com/in/marian-davinia-gil-montaño/) |
-| Sandra Patricia Castaño Vásquez   | Analista de Datos     | [GitHub](#) | [LinkedIn](#https://www.linkedin.com/in/sandracastano-ing-ambiental-dataanalyst/) |
+| Rosa Isela Gonzales Diaz          | Científica de Datos   | [GitHub](https://github.com/Rox-0864) | [LinkedIn](#) |
+| Luis Miguel Hoyos Ordoñez         | Analista de Datos     | [GitHub](https://github.com/1996LM) | [LinkedIn](https://www.linkedin.com/in/luis-hoyos-ciencia-datos/) |
+| Marian Davinia Gil Montaño        | Analista de Datos     | [GitHub](https://github.com/Pinha8888) | [LinkedIn](https://www.linkedin.com/in/marian-davinia-gil-montaño/) |
+| Sandra Patricia Castaño Vásquez   | Analista de Datos     | [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/sandracastano-ing-ambiental-dataanalyst/) |
 
 ---
 

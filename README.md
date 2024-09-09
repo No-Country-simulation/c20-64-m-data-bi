@@ -44,16 +44,30 @@ Utilizamos un enfoque basado en metodologías ágiles para gestionar el proyecto
 Los dashboards interactivos en Power BI integran todas las fases del análisis. Los usuarios pueden explorar las predicciones y visualizar cómo las variaciones climáticas y de suelo afectan la producción. Las herramientas permiten filtrar por cultivo, región y tiempo para una experiencia personalizada.
 
 ## Herramientas y Librerías Utilizadas
-- **Python**: Análisis de datos y desarrollo de modelos predictivos.
-- **QGIS**: Análisis geoespacial y visualización de datos espaciales.
-- **Power BI**: Visualización avanzada de resultados en dashboards.
-- **Scikit-learn, TensorFlow, PyTorch**: Algoritmos de machine learning para predicción.
-- **GitHub**: Gestión del código y colaboración en equipo.
+| Librería/Herramienta      | Descripción                                                                                         |
+|---------------------------|-----------------------------------------------------------------------------------------------------|
+| **Python**                | Lenguaje de programación utilizado para análisis de datos y desarrollo de modelos predictivos.     |
+| **Pandas**                | Librería de Python para la manipulación y análisis de datos estructurados.                         |
+| **NumPy**                 | Librería fundamental para la computación numérica en Python, utilizada para operaciones con matrices y arrays. |
+| **Matplotlib**            | Librería de Python para la generación de gráficos y visualizaciones de datos en dos dimensiones.   |
+| **Seaborn**               | Librería de Python basada en Matplotlib, utilizada para la visualización de datos estadísticos con gráficos avanzados y estilos mejorados. |
+| **Scikit-learn**          | Librería de Python para machine learning, utilizada para el desarrollo y validación de modelos predictivos. |
+| **QGIS**                  | Software de código abierto para análisis geoespacial y visualización de datos espaciales.          |
+| **Power BI**              | Herramienta de visualización de datos utilizada para crear dashboards interactivos e informes.     |
+| **Jupyter**               | Plataforma interactiva basada en notebooks para desarrollo y presentación de análisis de datos.    |
+| **TensorFlow**            | Librería de aprendizaje automático para la construcción de modelos de deep learning.               |
+| **PyTorch**               | Framework de aprendizaje profundo para desarrollar modelos de machine learning.                    |
+| **Visual Studio Code**    | Editor de código fuente con soporte para múltiples lenguajes y herramientas de desarrollo.         |
+| **GitHub**                | Plataforma de desarrollo colaborativo utilizada para la gestión del código y control de versiones. |
+| **Slack**                 | Plataforma de comunicación para equipos, utilizada para la coordinación del proyecto.              |
+| **Google Drive**          | Servicio de almacenamiento y colaboración de archivos en la nube.                                 |
+| **Discord**               | Plataforma de comunicación por voz y texto para la coordinación del equipo.                       |
+| **WhatsApp**              | Aplicación de mensajería utilizada para la comunicación rápida entre los miembros del equipo.      |
 
 ## Contacto
 | Integrantes                       | Rol                   | GitHub      | LinkedIn |
 |---------------------------        |-----------------------|-------------|----------|
-| Rosa Isela Gonzales Diaz          | Científica de Datos   | [GitHub](https://github.com/Rox-0864) | [LinkedIn](#) |
+| Rosa Isela Gonzales Diaz          | Project Manager / Científica de Datos   | [GitHub](https://github.com/Rox-0864) | [LinkedIn](#) |
 | Luis Miguel Hoyos Ordoñez         | Analista de Datos     | [GitHub](https://github.com/1996LM) | [LinkedIn](https://www.linkedin.com/in/luis-hoyos-ciencia-datos/) |
 | Marian Davinia Gil Montaño        | Analista de Datos     | [GitHub](https://github.com/Pinha8888) | [LinkedIn](https://www.linkedin.com/in/marian-davinia-gil-montaño/) |
 | Sandra Patricia Castaño Vásquez   | Analista de Datos     | [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/sandracastano-ing-ambiental-dataanalyst/) |

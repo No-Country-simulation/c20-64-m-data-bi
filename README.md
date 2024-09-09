@@ -25,7 +25,7 @@ Este proyecto está dirigido a agricultores, gestores de recursos naturales, y t
 Utilizamos un enfoque basado en metodologías ágiles para gestionar el proyecto, combinando la experiencia de científicos de datos y analistas. La metodología incluyó las siguientes etapas:
 1. **Recolección de Datos**: Obtención de datos históricos sobre producción, clima, suelos y datos socioeconómicos.
 2. **Análisis Exploratorio**: Identificación de patrones y correlaciones clave.
-3. **Modelado Predictivo**: Desarrollo de modelos de machine learning como Random Forest.
+3. **Modelado Predictivo**: Desarrollo de modelos de machine learning como Random Forest y Regresión Lineal.
 4. **Visualización e Informe**: Creación de dashboards en Power BI para presentar los resultados.
 
 ## Datos

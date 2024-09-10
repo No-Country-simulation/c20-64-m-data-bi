@@ -65,7 +65,7 @@ Los dashboards interactivos en Power BI integran todas las fases del análisis. 
 ## Contacto
 | Integrantes                       | Rol                                      | GitHub                                         | LinkedIn                                                                                  |
 |-----------------------------------|------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------|
-| Rosa Isela Gonzales Diaz          | Project Manager / Científica de Datos    | [GitHub](https://github.com/Rox-0864)          | [LinkedIn](http://www.linkedin.com/in/rosa-isela-gonzález-díaz)                                                                            |
+| Rosa Isela Gonzales Diaz          | Project Manager / Científica de Datos    | [GitHub](https://github.com/roisgo)          | [LinkedIn](http://www.linkedin.com/in/rosa-isela-gonzález-díaz)                                                                            |
 | Luis Miguel Hoyos Ordoñez         | Analista de Datos                        | [GitHub](https://github.com/1996LM)            | [LinkedIn](https://www.linkedin.com/in/luis-hoyos-ciencia-datos/)                        |
 | Marian Davinia Gil Montaño        | Analista de Datos                        | [GitHub](https://github.com/Pinha8888)         | [LinkedIn](https://www.linkedin.com/in/marian-davinia-gil-montaño/)                      |
 | Sandra Patricia Castaño Vásquez   | Analista de Datos                        | [GitHub](https://github.com/Sandrapcv)                                    | [LinkedIn](https://www.linkedin.com/in/sandracastano-ing-ambiental-dataanalyst/)         |

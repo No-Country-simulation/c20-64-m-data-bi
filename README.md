@@ -1,5 +1,5 @@
 # c20-64-m-data-bi
-# Proyecto Análisis Predictivo de la Producción Agrícola en Chiapas 🌾
+# Proyecto Análisis Predictivo de la Producción Agrícola en Chiapas (2003-2023) 🌾
 
 ## 📝 Índice
 - [Introducción](#introducción)
@@ -13,35 +13,35 @@
 - [Contacto](#contacto)
 
 ## Introducción
-Este proyecto tiene como objetivo desarrollar un análisis predictivo de la producción agrícola utilizando datos climáticos, socioeconómicos y de suelos. A través de modelos de regresión y series temporales, se busca identificar patrones y realizar predicciones que puedan ayudar en la toma de decisiones agrícolas para optimizar la producción en la región.
+Este proyecto tiene como objetivo desarrollar un análisis predictivo de la producción agrícola en Chiapas utilizando datos históricos de los años 2003 a 2023. A través de modelos de machine learning y regresión lineal, se identifican patrones y se realizan predicciones para los años 2024 a 2028, ayudando en la toma de decisiones para optimizar la producción agrícola en la región.
 
 ## Resumen
-Se recopilaron datos históricos sobre la producción agrícola, el clima, las características del suelo y datos socioeconómicos en Chiapas. El proyecto incluye análisis exploratorio, modelado predictivo con algoritmos de machine learning, y la visualización de resultados mediante dashboards interactivos en Power BI.
+Se recopilaron datos históricos sobre la producción agrícola, clima, características del suelo, y datos socioeconómicos en Chiapas para los años 2003 a 2023. El proyecto incluye un análisis exploratorio de datos, modelado predictivo con algoritmos como Random Forest, XGBoost y Regresión Lineal, y la visualización de resultados mediante dashboards interactivos en Power BI.
 
 ## Público Objetivo
 Este proyecto está dirigido a agricultores, gestores de recursos naturales, y tomadores de decisiones en el sector agrícola de Chiapas. Además, es útil para investigadores, analistas de datos y autoridades locales interesadas en la planificación agrícola y la gestión de recursos.
 
 ## Metodología
 Utilizamos un enfoque basado en metodologías ágiles para gestionar el proyecto, combinando la experiencia de científicos de datos y analistas. La metodología incluyó las siguientes etapas:
-1. **Recolección de Datos**: Obtención de datos históricos sobre producción, clima, suelos y datos socioeconómicos.
-2. **Análisis Exploratorio**: Identificación de patrones y correlaciones clave.
-3. **Modelado Predictivo**: Desarrollo de modelos de machine learning como Random Forest y Regresión Lineal.
-4. **Visualización e Informe**: Creación de dashboards en Power BI para presentar los resultados.
+1. **Recolección de Datos**: Obtención de datos históricos sobre producción, clima, suelos y datos socioeconómicos de Chiapas (2003-2023).
+2. **Análisis Exploratorio**: Identificación de patrones y correlaciones clave entre los factores climáticos, suelos, y producción agrícola.
+3. **Modelado Predictivo**: Desarrollo de modelos de machine learning como Random Forest, XGBoost y Regresión Lineal para prever la producción agrícola entre 2024 y 2028.
+4. **Visualización e Informe**: Creación de dashboards interactivos en Power BI para presentar los resultados de manera intuitiva y práctica.
 
 ## Datos
-- **Producción Agrícola**: Datos históricos de cultivos por región.
+- **Producción Agrícola**: Datos históricos de cultivos por región desde 2003 a 2023.
 - **Clima**: Información sobre precipitación y temperatura.
-- **Suelos**: Características de tipos de suelos.
-- **Socieconómicos**: Datos de indices de pobreza. 
+- **Suelos**: Características de los tipos de suelos en las áreas de producción.
+- **Socioeconómicos**: Datos sobre índices de pobreza y su impacto en la producción.
 
 ## Etapas del Proyecto
-1. **Recolección y Preparación de Datos**: Limpieza y normalización de los datos.
-2. **Análisis Exploratorio de Datos (EDA)**: Visualización y análisis de correlaciones.
-3. **Modelado Predictivo**: Desarrollo y validación de modelos para prever la producción.
-4. **Visualización de Resultados**: Creación de dashboards en Power BI.
+1. **Recolección y Preparación de Datos**: Limpieza, normalización y consolidación de los datos relevantes.
+2. **Análisis Exploratorio de Datos (EDA)**: Visualización y análisis de correlaciones para identificar factores clave.
+3. **Modelado Predictivo**: Desarrollo y validación de modelos de machine learning y regresión lineal para prever la producción agrícola de 2024 a 2028.
+4. **Visualización de Resultados**: Creación de dashboards en Power BI que permitan explorar las predicciones y obtener insights accionables.
 
 ## Visualización en Power BI
-Los dashboards interactivos en Power BI integran todas las fases del análisis. Los usuarios pueden explorar las predicciones y visualizar cómo las variaciones climáticas y de suelo afectan la producción. Las herramientas permiten filtrar por cultivo, región y tiempo para una experiencia personalizada.
+Los dashboards interactivos en Power BI integran todas las fases del análisis. Permiten a los usuarios explorar predicciones y visualizar cómo las variaciones climáticas, tipo de suelo y condiciones socioeconómicas afectan la producción. Las herramientas de filtrado permiten ajustar por cultivo, región y periodo de tiempo para ofrecer una experiencia personalizada y enfocada.
 
 ## Herramientas y Librerías Utilizadas
 | Librería/Herramienta      | Descripción                                                                                         |
@@ -55,8 +55,6 @@ Los dashboards interactivos en Power BI integran todas las fases del análisis. 
 | **QGIS**                  | Software de código abierto para análisis geoespacial y visualización de datos espaciales.          |
 | **Power BI**              | Herramienta de visualización de datos utilizada para crear dashboards interactivos e informes.     |
 | **Jupyter**               | Plataforma interactiva basada en notebooks para desarrollo y presentación de análisis de datos.    |
-| **TensorFlow**            | Librería de aprendizaje automático para la construcción de modelos de deep learning.               |
-| **PyTorch**               | Framework de aprendizaje profundo para desarrollar modelos de machine learning.                    |
 | **Visual Studio Code**    | Editor de código fuente con soporte para múltiples lenguajes y herramientas de desarrollo.         |
 | **GitHub**                | Plataforma de desarrollo colaborativo utilizada para la gestión del código y control de versiones. |
 | **Slack**                 | Plataforma de comunicación para equipos, utilizada para la coordinación del proyecto.              |
@@ -65,13 +63,14 @@ Los dashboards interactivos en Power BI integran todas las fases del análisis. 
 | **WhatsApp**              | Aplicación de mensajería utilizada para la comunicación rápida entre los miembros del equipo.      |
 
 ## Contacto
-| Integrantes                       | Rol                   | GitHub      | LinkedIn |
-|---------------------------        |-----------------------|-------------|----------|
-| Rosa Isela Gonzales Diaz          | Project Manager / Científica de Datos   | [GitHub](https://github.com/Rox-0864) | [LinkedIn](#) |
-| Luis Miguel Hoyos Ordoñez         | Analista de Datos     | [GitHub](https://github.com/1996LM) | [LinkedIn](https://www.linkedin.com/in/luis-hoyos-ciencia-datos/) |
-| Marian Davinia Gil Montaño        | Analista de Datos     | [GitHub](https://github.com/Pinha8888) | [LinkedIn](https://www.linkedin.com/in/marian-davinia-gil-montaño/) |
-| Sandra Patricia Castaño Vásquez   | Analista de Datos     | [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/sandracastano-ing-ambiental-dataanalyst/) |
+| Integrantes                       | Rol                                      | GitHub                                         | LinkedIn                                                                                  |
+|-----------------------------------|------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------|
+| Rosa Isela Gonzales Diaz          | Project Manager / Científica de Datos    | [GitHub](https://github.com/Rox-0864)          | [LinkedIn](http://www.linkedin.com/in/rosa-isela-gonzález-díaz)                                                                            |
+| Luis Miguel Hoyos Ordoñez         | Analista de Datos                        | [GitHub](https://github.com/1996LM)            | [LinkedIn](https://www.linkedin.com/in/luis-hoyos-ciencia-datos/)                        |
+| Marian Davinia Gil Montaño        | Analista de Datos                        | [GitHub](https://github.com/Pinha8888)         | [LinkedIn](https://www.linkedin.com/in/marian-davinia-gil-montaño/)                      |
+| Sandra Patricia Castaño Vásquez   | Analista de Datos                        | [GitHub](https://github.com/Sandrapcv)                                    | [LinkedIn](https://www.linkedin.com/in/sandracastano-ing-ambiental-dataanalyst/)         |
 
 ---
 
-¡Gracias por tu interés en nuestro proyecto! Este trabajo busca apoyar el desarrollo sostenible de la producción agrícola en Chiapas mediante un análisis basado en datos y modelos predictivos avanzados.
+¡Gracias por tu interés en nuestro proyecto! Este trabajo busca apoyar el desarrollo sostenible de la producción agrícola en Chiapas mediante un análisis basado en datos y modelos predictivos avanzados, proporcionando herramientas valiosas para la toma de decisiones.
+

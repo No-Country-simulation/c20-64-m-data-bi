@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/sayi/NC.c20-64-m-data-bi/venv"
+VIRTUAL_ENV="/home/sayi/prchp/prchp"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
@@ -52,9 +52,9 @@ fi
 
 if [ -z "${VIRTUAL_ENV_DISABLE_PROMPT:-}" ] ; then
     _OLD_VIRTUAL_PS1="${PS1:-}"
-    PS1="(venv) ${PS1:-}"
+    PS1="(prchp) ${PS1:-}"
     export PS1
-    VIRTUAL_ENV_PROMPT="(venv) "
+    VIRTUAL_ENV_PROMPT="(prchp) "
     export VIRTUAL_ENV_PROMPT
 fi
 

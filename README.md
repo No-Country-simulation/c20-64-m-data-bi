@@ -1,6 +1,6 @@
 # c20-64-m-data-bi
 # Proyecto Análisis Predictivo de la Producción Agrícola en Chiapas (2003-2023) 🌾
-
+[Visualización del Proyecto](https://app.powerbi.com/view?r=eyJrIjoiZTA1MzNlM2QtOWUyZC00MWE4LTk3ZTYtOGE0ZWY1NzQ4MTM5IiwidCI6ImNhM2YxZDZiLWZkMWYtNDBiMS1iNDFhLTQ4OGI5ODBlOWY3ZiIsImMiOjR9) 
 ## 📝 Índice
 - [Introducción](#introducción)
 - [Resumen](#resumen)

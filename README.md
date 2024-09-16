@@ -41,7 +41,7 @@ Utilizamos un enfoque basado en metodologías ágiles para gestionar el proyecto
 4. **Visualización de Resultados**: Creación de dashboards en Power BI que permitan explorar las predicciones y obtener insights accionables.
 
 ## Visualización en Power BI
-Los dashboards interactivos en Power BI integran todas las fases del análisis. Permiten a los usuarios explorar predicciones y visualizar cómo las variaciones climáticas, tipo de suelo y condiciones socioeconómicas afectan la producción. Las herramientas de filtrado permiten ajustar por cultivo, región y periodo de tiempo para ofrecer una experiencia personalizada y enfocada.
+Los dashboards interactivos en Power BI integran todas las fases del análisis. Permiten a los usuarios explorar predicciones y visualizar cómo las variaciones climáticas, tipo de suelo y condiciones socioeconómicas afectan la producción. Las herramientas de filtrado permiten ajustar por cultivo, región y periodo de tiempo para ofrecer una experiencia personalizada y enfocada. Los resultados mencionados se encuentran en la carpeta de Visualización acompañados de un video explicativo. 
 
 ## Herramientas y Librerías Utilizadas
 | Librería/Herramienta      | Descripción                                                                                         |

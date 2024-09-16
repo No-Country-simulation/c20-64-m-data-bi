@@ -1,1 +1,13 @@
-# Listado de archivos y carpetas ignoradas
+# Ignorar la carpeta del entorno virtual
+venv/
+.Venv/
+ENV/
+env/
+venv.bak/
+
+# Ignorar archivos de Power BI
+*.pbix
+
+# Ignorar documentos de Word 
+*.docx
+*.txt

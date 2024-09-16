@@ -11,3 +11,6 @@ venv.bak/
 # Ignorar documentos de Word 
 *.docx
 *.txt
+
+# Ignorar archivos de video
+*.mp4
